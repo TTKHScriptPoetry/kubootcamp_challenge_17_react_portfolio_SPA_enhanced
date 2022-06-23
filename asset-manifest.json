@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/kubootcamp_challenge_17_react_portfolio_SPA_enhanced/static/css/main.2a8f646e.css",
-    "main.js": "/kubootcamp_challenge_17_react_portfolio_SPA_enhanced/static/js/main.7afcd2b4.js",
+    "main.js": "/kubootcamp_challenge_17_react_portfolio_SPA_enhanced/static/js/main.3ce205f0.js",
     "static/js/787.43b31a8d.chunk.js": "/kubootcamp_challenge_17_react_portfolio_SPA_enhanced/static/js/787.43b31a8d.chunk.js",
-    "static/media/SoftwareDeveloper_KimberlyTran_Resume.pdf": "/kubootcamp_challenge_17_react_portfolio_SPA_enhanced/static/media/SoftwareDeveloper_KimberlyTran_Resume.f12eeae72ed8553541d3.pdf",
+    "static/media/Engineer-Software-IT_Kim-huong_Resume.pdf": "/kubootcamp_challenge_17_react_portfolio_SPA_enhanced/static/media/Engineer-Software-IT_Kim-huong_Resume.2f34c2ca32047c23ae99.pdf",
     "static/media/KimHuongFormal.jpg": "/kubootcamp_challenge_17_react_portfolio_SPA_enhanced/static/media/KimHuongFormal.fca4d12e41dfd899e128.jpg",
     "static/media/linkedin_alt_48.png": "/kubootcamp_challenge_17_react_portfolio_SPA_enhanced/static/media/linkedin_alt_48.7d2d34b8d766039bb629.png",
     "index.html": "/kubootcamp_challenge_17_react_portfolio_SPA_enhanced/index.html",
     "main.2a8f646e.css.map": "/kubootcamp_challenge_17_react_portfolio_SPA_enhanced/static/css/main.2a8f646e.css.map",
-    "main.7afcd2b4.js.map": "/kubootcamp_challenge_17_react_portfolio_SPA_enhanced/static/js/main.7afcd2b4.js.map",
+    "main.3ce205f0.js.map": "/kubootcamp_challenge_17_react_portfolio_SPA_enhanced/static/js/main.3ce205f0.js.map",
     "787.43b31a8d.chunk.js.map": "/kubootcamp_challenge_17_react_portfolio_SPA_enhanced/static/js/787.43b31a8d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2a8f646e.css",
-    "static/js/main.7afcd2b4.js"
+    "static/js/main.3ce205f0.js"
   ]
 }
