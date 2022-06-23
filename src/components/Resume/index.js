@@ -7,7 +7,7 @@ function Resume() {
       {/* <div className={`col-12 col-lg-12 col-md-9 col-sm-6  mb-1 mt-4`}> */}
       <div className={`col-12 col-lg-12 col-md-9 col-sm-6  mb-1 mt-4`}>
         <h2>Resume</h2>
-        <span className="pill mb-2"><a title='Click to Download' href={require(`../../assets/docs/SoftwareDeveloper_KimberlyTran_Resume.pdf`)} >My Resume</a></span>
+        <span className="pill mb-2"><a title='Click to Download' href={require(`../../assets/docs/Engineer-Software-IT_Kim-huong_Resume.pdf`)} >My Resume</a></span>
       </div>
 
       {/* <div className={`col-6 col-lg-6 col-md-6 col-sm-3 mb-1 mt-4`}> */}

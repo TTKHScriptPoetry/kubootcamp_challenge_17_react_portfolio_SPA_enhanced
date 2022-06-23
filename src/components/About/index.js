@@ -14,7 +14,7 @@ function About() {
         </p>
         <p>&nbsp;</p>
         <p className="about-me mb-1" >
-          This About Me section is just simply and technically informative: like many others who took online school during the pandemics, I went for a Fullstack Coding Bootcamp program with KU (the Univerity of Kansas) and just happen to have finished it recently.
+          This About Me section is just simply and technically informative: like many others who took online school during the pandemics, I went for an intensive 24-week long Fullstack Coding Bootcamp program with KU (the Univerity of Kansas) and just happen to have finished it recently.
         </p>
         <p>&nbsp;</p>
         <p className="about-me mb-1">  

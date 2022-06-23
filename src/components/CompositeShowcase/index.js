@@ -1,6 +1,6 @@
 import React from 'react'
  
-import ShowcaseNumOne from '../ShowcaseNumOne';
+// import ShowcaseNumOne from '../ShowcaseNumOne';
 import ShowcaseNumTwo from '../ShowcaseNumTwo';
 import ShowcaseNumThree from '../ShowcaseNumThree';
 import ShowcaseNumFour from '../ShowcaseNumFour';
@@ -22,7 +22,7 @@ const CompositeShowcase  = () => {
        
         <h4>&bull; Web-based Projects</h4>
         <div className="mb-1 flex-row justify-space-between">
-          <ShowcaseNumOne></ShowcaseNumOne>
+          {/* <ShowcaseNumOne></ShowcaseNumOne> */}
           <ShowcaseNumThree></ShowcaseNumThree>
           <ShowcaseNumTwo></ShowcaseNumTwo>
           <ShowcaseNumFour></ShowcaseNumFour>
